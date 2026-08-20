@@ -6,7 +6,7 @@
 [![ROM](https://img.shields.io/badge/ROM-17.6%20KB%20(26.9%25)-green)]()
 [![RAM](https://img.shields.io/badge/RAM-7.0%20KB%20(35.1%25)-brightgreen)]()
 [![Clock](https://img.shields.io/badge/Clock-72%20MHz-blue)]()
-[![Overhead](https://img.shields.io/badge/Overhead-0.16%25%20CPU-orange)]()
+[![Overhead](https://img.shields.io/badge/Overhead-26.4%20%C2%B5s%20(0.19%25)-orange)]()
 [![License](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
 
 ---

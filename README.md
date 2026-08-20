@@ -27,7 +27,7 @@ O sistema é imune a condições de corrida, deadlocks e inversão de prioridade
 
 | Função Biológica | Equivalente no CDC-P | Mecanismo |
 |:---|:---|:---|
-| Respiração | Tick dinâmico | Ajusta frequência do sistema conforme a demanda (1ms a 50ms) |
+| Respiração | Tick dinâmico | Ajusta frequência do sistema conforme a demanda (2ms a 50ms) |
 | Reflexos | URG-S | Resposta imediata e involuntária a estímulos externos (mesma iteração) |
 | Homeostase | Auto-regulagem | Mantém equilíbrio temporal sob carga variável |
 | Cicatrização | Task9 (Síndico) | Recupera tarefas bloqueadas progressivamente |

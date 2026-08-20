@@ -2,7 +2,7 @@
 
 ## Um sistema que transcende a definição de RTOS. Ele respira, tem reflexos, se adapta, se cura, se defende e, se tudo falhar, renasce. Tudo em 1360 palavras de ROM e 80 bytes de RAM.
 
-[![Platform](https://img.shields.io/badge/platform-PIC16F628A-blue)](https://www.microchip.com/en-us/product/PIC16F628A)
+[![Platform](https://img.shields.io/badge/platform-CORTEX-M3-blue)](https://www.stm.com/en-us/product/STM32F103C8)
 [![ROM](https://img.shields.io/badge/ROM-1360%20words%20(66%25)-green)]()
 [![RAM](https://img.shields.io/badge/RAM-80%20bytes%20(36%25)-brightgreen)]()
 [![Stack](https://img.shields.io/badge/Stack-4%20of%208%20levels-orange)]()
